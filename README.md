@@ -1,1 +1,5 @@
-# CSCI_3308_Lab03
+Nicolas
+
+Lab3 Git Version Control
+
+
